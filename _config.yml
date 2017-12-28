@@ -8,6 +8,7 @@ url: "http://grantholle.com"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - contact.html
 
 # Google services
 google_verification:
@@ -103,14 +104,14 @@ text:
     coming_soon: 'Coming soon...'
   contact:
     email: 'Email'
-    content: 'What would you like to say?'
+    content: 'Say something...'
     subject: 'New grantholle.com submission'
-    submit: 'Say Hello'
+    submit: 'Send'
     ajax:
       sending:  'sending..'
       sent:     'Message sent!'
       error:    'Error!'
-  thanks: 'Thanks for contacting us. We will reply as soon as possible.'
+  thanks: "Thanks for sending me a message. I'll get back to you asap."
   og_locale: 'en_US'
 
 # Build settings
