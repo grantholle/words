@@ -38,7 +38,7 @@ Something like that. Anyway, it's different and hard.
 
 ### Sounds
 
-There's actually a pretty limited number of sounds in Chinese. Taking a look at a [pinyin chart](https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table). Each one of those words are all the words/syllables in Chinese. Different words are made by combining those syllables. Simple, right?!
+There's actually a pretty limited number of sounds in Chinese. Taking a look at a [pinyin chart](https://www.yoyochinese.com/chinese-learning-tools/Mandarin-Chinese-pronunciation-lesson/pinyin-chart-table). Those words are all the words/syllables that exist in the entire Chinese language. Different words are made by combining those syllables. Simple, right?!
 
 ### Word formation
 
