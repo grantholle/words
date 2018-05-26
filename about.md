@@ -13,4 +13,4 @@ I've learned a lot about myself and life since living in China, and would encour
 
 I'm also passionate about Jesus and what it means to follow his teachings in the world in which we live.
 
-All views and opinions expressed are purely my own and do not reflect those of my employers, clients, family or friends.
+All views and opinions expressed are purely my own and may or may not match those of my employers, clients, family or friends.
